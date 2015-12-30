@@ -10,6 +10,10 @@ upyun menu | 扩展 | UPYUN 自定义菜单插件 | 无 | [源码](https://githu
 Screen Capture | 扩展 | 一个基于 Chrome 的截屏工具 | [主页](https://v2ex.com/t/236471) | [源码](https://github.com/Sneezry/Screen-Capture) | [商店](https://chrome.google.com/webstore/detail/screen-capture/fkmlhmfcignnfagdkfbdmfgidliknkhh) | [Sneezry]
 TransIt | 扩展 | Chrome划词翻译扩展 | [主页](http://gdgxian.org/crx-transit/) | [源码](https://github.com/GDG-Xian/crx-transit) | [商店](https://chrome.google.com/webstore/detail/transit/pfjipfdmbpbkcadkdpmacdcefoohagdc) | [greatghoul]
 
+### 开源的 Chroem Extension 开发组件
+
+ * [connect.io](https://github.com/lmk123/connect.io) - Real-time bidirectional event-based and Promise friendly communication in Chrome Extensions and Apps inspired by Socket.IO.
+
 
 [scioga]: https://github.com/sciooga
 [cyio]: https://github.com/cyio
