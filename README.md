@@ -13,6 +13,7 @@ TransIt | 扩展 | Chrome划词翻译扩展 | [主页](http://gdgxian.org/crx-tr
 ### 开源的 Chroem Extension 开发组件
 
  * [connect.io](https://github.com/lmk123/connect.io) - Real-time bidirectional event-based and Promise friendly communication in Chrome Extensions and Apps inspired by Socket.IO.
+ * [chrome-storage-wrapper](https://github.com/lmk123/chrome-storage-wrapper) - A tiny wrapper for chrome.storage that using Promise.
 
 
 [scioga]: https://github.com/sciooga
