@@ -11,6 +11,7 @@ Screen Capture | 扩展 | 一个基于 Chrome 的截屏工具 | [主页](https:/
 TransIt | 扩展 | Chrome 划词翻译扩展 | [主页](http://gdgxian.org/crx-transit/) | [源码](https://github.com/GDG-Xian/crx-transit) | [商店](https://chrome.google.com/webstore/detail/transit/pfjipfdmbpbkcadkdpmacdcefoohagdc) | [greatghoul]
 划词翻译 | 扩展 | Chrome 划词翻译扩展 | 无 | [源码](https://github.com/lmk123/crx-selection-translate) | [商店](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad) | [Milk Lee]
 avoid baidu | 扩展 | 帮助自己纠正使用baidu的习惯 | 无 | [源码](https://github.com/telnetning/avoid_baidu) | 无 | [telnetning]
+温故知新 | 扩展 | 帮你重读你的书签 | [主页](http://bm.to0l.cn/) | [源码](https://github.com/ety001/bookmark-extension) | [商店](https://chrome.google.com/webstore/detail/review-bookmarks/oacajkekkegmjcnccaeijghfodogjnom) | [ety001]
 
 ### 开源的 Chroem Extension 开发组件
 
@@ -26,3 +27,4 @@ avoid baidu | 扩展 | 帮助自己纠正使用baidu的习惯 | 无 | [源码](h
 [Milk Lee]: http://www.limingkai.cn/
 [kenshin]: https://github.com/Kenshin
 [telnetning]: https://github.com/telnetning
+[ety001]: https://github.com/ety001
