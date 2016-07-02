@@ -13,6 +13,7 @@ TransIt | 扩展 | Chrome 划词翻译扩展 | [主页](http://gdgxian.org/crx-t
 avoid baidu | 扩展 | 帮助自己纠正使用baidu的习惯 | 无 | [源码](https://github.com/telnetning/avoid_baidu) | 无 | [telnetning]
 温故知新 | 扩展 | 帮你重读你的书签 | [主页](http://bm.to0l.cn/) | [源码](https://github.com/ety001/bookmark-extension) | [商店](https://chrome.google.com/webstore/detail/review-bookmarks/oacajkekkegmjcnccaeijghfodogjnom) | [ety001]
 BaiduExporter | 扩展 | 导出百度盘下载链接到 aria2/aria2-rpc | 无 | [源码](https://github.com/acgotaku/BaiduExporter) | 无 | [雪月秋水]
+莆田系医院网站提醒 | 扩展 | 莆田系医院网站提醒 | 无 | [源码](https://github.com/hustcc/PTHospital.chrome) | [商店](https://chrome.google.com/webstore/detail/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E7%BD%91%E7%AB%99%E6%8F%90%E9%86%92/pihadmdiehanenijehoohjnpiaofmmng) | [hustcc]
 
 ### 开源的 Chroem Extension 开发组件
 
@@ -30,3 +31,4 @@ BaiduExporter | 扩展 | 导出百度盘下载链接到 aria2/aria2-rpc | 无 | 
 [telnetning]: https://github.com/telnetning
 [ety001]: https://github.com/ety001
 [雪月秋水]: https://github.com/acgotaku
+[hustcc]: https://github.com/hustcc
