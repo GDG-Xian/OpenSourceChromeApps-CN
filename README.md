@@ -35,3 +35,4 @@ Fairy Dict | 扩展 | 强大的词典工具 | [主页](https://www.v2ex.com/t/31
 [雪月秋水]: https://github.com/acgotaku
 [hustcc]: https://github.com/hustcc
 [kikyous]: https://github.com/kikyous
+[revir]: https://github.com/revir
