@@ -15,6 +15,8 @@ avoid baidu | 扩展 | 帮助自己纠正使用baidu的习惯 | 无 | [源码](h
 BaiduExporter | 扩展 | 导出百度盘下载链接到 aria2/aria2-rpc | 无 | [源码](https://github.com/acgotaku/BaiduExporter) | 无 | [雪月秋水]
 莆田系医院网站提醒 | 扩展 | 莆田系医院网站提醒 | 无 | [源码](https://github.com/hustcc/PTHospital.chrome) | [商店](https://chrome.google.com/webstore/detail/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E7%BD%91%E7%AB%99%E6%8F%90%E9%86%92/pihadmdiehanenijehoohjnpiaofmmng) | [hustcc]
 网易云音乐辅助 | 扩展 | 网页版网易云音乐播放控制 | 无 | [源码](https://github.com/kikyous/music.163.com) | [商店](https://chrome.google.com/webstore/detail/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E8%BE%85%E5%8A%A9/dmidlfboljckpijkmbmolidjimmfelho?hl=zh-CN) | [kikyous]
+Fairy Dict | 扩展 | 强大的词典工具 | [主页](https://www.v2ex.com/t/312105) | [源码](https://chrome.google.com/webstore/detail/fairydict/gpdpcfgfmgkmljmhhnedefdaadgehaah) | [商店](https://chrome.google.com/webstore/detail/fairydict/gpdpcfgfmgkmljmhhnedefdaadgehaah) | [revir]
+
 ### 开源的 Chroem Extension 开发组件
 
  * [connect.io](https://github.com/lmk123/connect.io) - Real-time bidirectional event-based and Promise friendly communication in Chrome Extensions and Apps inspired by Socket.IO.
