@@ -17,6 +17,7 @@ BaiduExporter | 扩展 | 导出百度盘下载链接到 aria2/aria2-rpc | 无 | 
 网易云音乐辅助 | 扩展 | 网页版网易云音乐播放控制 | 无 | [源码](https://github.com/kikyous/music.163.com) | [商店](https://chrome.google.com/webstore/detail/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E8%BE%85%E5%8A%A9/dmidlfboljckpijkmbmolidjimmfelho?hl=zh-CN) | [kikyous]
 Fairy Dict | 扩展 | 强大的词典工具 | [主页](https://www.v2ex.com/t/312105) | [源码](https://chrome.google.com/webstore/detail/fairydict/gpdpcfgfmgkmljmhhnedefdaadgehaah) | [商店](https://chrome.google.com/webstore/detail/fairydict/gpdpcfgfmgkmljmhhnedefdaadgehaah) | [revir]
 二管家 | 扩展 | 管理扩展的利器 | [主页](https://ainoob.com/project/nooboss) | [源码](https://github.com/AInoob/NooBoss) | [商店](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf) | [AInoob]
+二箱 | 扩展 | 实用的工具箱，以图搜图 | [主页](https://ainoob.com/project/noobox) | [源码](https://github.com/AInoob/NooBox) | [商店](https://chrome.google.com/webstore/detail/noobox/kidibbfcblfbbafhnlanccjjdehoahep) | [AInoob]
 
 ### 开源的 Chroem Extension 开发组件
 
