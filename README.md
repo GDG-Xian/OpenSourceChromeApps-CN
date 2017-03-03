@@ -1,4 +1,6 @@
-收集和整理国内优秀的 Chrome 开源扩展和应用。
+## 国内优秀的 Chrome 开源扩展和应用
+
+[![Build Status](https://api.travis-ci.org/GDG-Xian/OpenSourceChromeApps-CN.svg)](https://travis-ci.org/GDG-Xian/OpenSourceChromeApps-CN)
 
 名称 | 类型 | 简介 | 主页 | 源码 | 商店 | 作者
 ---- | ---- | ---- | ---- | ---- | ---- | ----
