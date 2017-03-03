@@ -27,6 +27,9 @@ ZhihuFilter | 扩展 | 屏蔽知乎首页不感兴趣的内容 | 无 | [源码](
  * [connect.io](https://github.com/lmk123/connect.io) - Real-time bidirectional event-based and Promise friendly communication in Chrome Extensions and Apps inspired by Socket.IO.
  * [chrome-storage-wrapper](https://github.com/lmk123/chrome-storage-wrapper) - A tiny wrapper for chrome.storage that using Promise.
 
+### 生成器
+
+* [chrome-extension-kickstart](https://github.com/HaNdTriX/generator-chrome-extension-kickstart) - Scaffold out a Chrome extension http://yeoman.io
 
 [sciooga]: https://github.com/sciooga
 [cyio]: https://github.com/cyio
