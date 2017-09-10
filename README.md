@@ -21,7 +21,7 @@ Fairy Dict | 扩展 | 强大的词典工具 | [主页](https://www.v2ex.com/t/31
 二箱 | 扩展 | 实用的工具箱，以图搜图 | [主页](https://ainoob.com/project/noobox) | [源码](https://github.com/AInoob/NooBox) | [商店](https://chrome.google.com/webstore/detail/noobox/kidibbfcblfbbafhnlanccjjdehoahep) | [AInoob]
 ZhihuFilter | 扩展 | 屏蔽知乎首页不感兴趣的内容 | 无 | [源码](https://github.com/noiron/ZhihuFilter) | 无 | [noiron]
 catgate | 扩展 | 数据抓取工具 | 无 | [源码](https://github.com/easychen/catgate) | [商店](https://chrome.google.com/webstore/detail/catgate/nncgefdjnpnipajdfnindaiockdadpab) | [easychen]
-
+Outdated Doc Detector | 扩展 | 过期文档检测 | 无 | [源码](https://github.com/hanguokai/Outdated-Doc-Detector) | [商店](https://chrome.google.com/webstore/detail/outdated-doc-detector/enmpooegjbnbhifdpapjknlbjefnlnja/related) | [Jackie Han]
 
 ### 开源的 Chroem Extension 开发组件
 
@@ -47,3 +47,4 @@ catgate | 扩展 | 数据抓取工具 | 无 | [源码](https://github.com/easych
 [AInoob]: https://github.com/AInoob
 [noiron]: https://github.com/noiron/ZhihuFilter
 [easychen]: https://github.com/easychen
+[Jackie Han]: https://github.com/hanguokai
