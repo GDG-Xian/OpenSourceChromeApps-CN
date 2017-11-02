@@ -4,7 +4,9 @@
 
 名称 | 类型 | 简介 | 主页 | 源码 | 商店 | 作者
 ---- | ---- | ---- | ---- | ---- | ---- | ----
-简Tab | 扩展 | 极简的Chrome新标签页扩展 | [主页](http://ksria.com/simptab/) | [源码](https://github.com/kenshin/simptab) | [商店](https://chrome.google.com/webstore/detail/simptab-new-tab/kbgmbmkhepchmmcnbdbclpkpegbgikjc?hl=zh-CN) | [kenshin]
+简悦 | 扩展 | 让你瞬间进入沉浸式阅读的 | [主页](http://ksria.com/simpread) | [源码](https://github.com/kenshin/simpread) | [商店](https://chrome.google.com/webstore/detail/%E7%AE%80%E6%82%A6-simpread/ijllcpnolfcooahcekpamkbidhejabll) | [kenshin]
+简Tab | 扩展 | 极简的Chrome新标签页扩展 | [主页](http://ksria.com/simptab) | [源码](https://github.com/kenshin/simptab) | [商店](https://chrome.google.com/webstore/detail/simptab-new-tab/kbgmbmkhepchmmcnbdbclpkpegbgikjc?hl=zh-CN) | [kenshin]
++Emoji | 扩展 | 中文语义化的 Emoji 扩展 | [主页](http://ksria.com/emoji) | [源码](https://github.com/kenshin/emoji) | [商店](https://chrome.google.com/webstore/detail/+emoji/kieghamlkoahkbimidmahcjpikacoclm) | [kenshin]
 v2ex plus | 扩展 | 可能是 v2ex 最好用的扩展 | [主页](http://www.v2ex.com/t/198074) | [源码](https://github.com/sciooga/v2ex-plus) | [商店](https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo) | [sciooga]
 十阅 | 扩展 | 年轻人的热帖订阅神器 | [主页](https://v2ex.com/t/227208) | [源码](https://github.com/cyio/ReadX) | 无 | [cyio]
 upyun menu | 扩展 | UPYUN 自定义菜单插件 | 无 | [源码](https://github.com/Sneezry/upyun-custom-menu-plugin) | 无 | [Sneezry]
