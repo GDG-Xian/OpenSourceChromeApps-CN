@@ -24,7 +24,7 @@ Fairy Dict | 扩展 | 强大的词典工具 | [主页](https://www.v2ex.com/t/31
 ZhihuFilter | 扩展 | 屏蔽知乎首页不感兴趣的内容 | 无 | [源码](https://github.com/noiron/ZhihuFilter) | 无 | [noiron]
 catgate | 扩展 | 数据抓取工具 | 无 | [源码](https://github.com/easychen/catgate) | [商店](https://chrome.google.com/webstore/detail/catgate/nncgefdjnpnipajdfnindaiockdadpab) | [easychen]
 Outdated Doc Detector | 扩展 | 过期文档检测 | 无 | [源码](https://github.com/hanguokai/Outdated-Doc-Detector) | [商店](https://chrome.google.com/webstore/detail/outdated-doc-detector/enmpooegjbnbhifdpapjknlbjefnlnja/related) | [Jackie Han]
-
+awesome-host-manager | 扩展 | host 管理插件 | 无 | [源码](https://github.com/keelii/awesome-host-manager) | [商店](https://chrome.google.com/webstore/detail/awesome-host-manager/pikaoeecieigblebdddckmlegonlogha?hl=zh-CN) | [keelii]
 ### 开源的 Chroem Extension 开发组件
 
  * [connect.io](https://github.com/lmk123/connect.io) - Real-time bidirectional event-based and Promise friendly communication in Chrome Extensions and Apps inspired by Socket.IO.
@@ -34,6 +34,7 @@ Outdated Doc Detector | 扩展 | 过期文档检测 | 无 | [源码](https://git
 
 * [chrome-extension-kickstart](https://github.com/HaNdTriX/generator-chrome-extension-kickstart) - Scaffold out a Chrome extension http://yeoman.io
 
+[keelii]: https://github.com/keelii/
 [sciooga]: https://github.com/sciooga
 [cyio]: https://github.com/cyio
 [Sneezry]: https://github.com/Sneezry
